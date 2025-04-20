@@ -42,9 +42,9 @@ This project builds a machine learning pipeline to detect credit card fraud usin
 
 ## File Descriptions
 - `credit_fraud_detection.ipynb': Full notebook with code and results  
-- `credit_fraud_results.pdf`: Output export of notebook  
-- `Final_Summary.pdf`: Executive summary of the approach and findings  
-- `Credit Card Fraud Detection (1).csv`: Original dataset (if shared)
+- `credit_fraud_results.pdf': Output export of notebook  
+- `Final_Summary.pdf': Executive summary of the approach and findings  
+- `Credit Card Fraud Detection.csv' : Original dataset
 
 ## Next Steps
 - Add precision/recall visualization
