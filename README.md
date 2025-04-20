@@ -46,6 +46,10 @@ This project builds a machine learning pipeline to detect credit card fraud usin
 - `Final_Summary.pdf': Executive summary of the approach and findings  
 - `Credit Card Fraud Detection.csv' : Original dataset
 
+- ## Dataset Access
+Due to size limits, the full dataset is not hosted in this repo. You can download it directly from:
+[Credit Card Fraud Dataset on Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+
 ## Next Steps
 - Add precision/recall visualization
 - Optional deployment using Flask or Streamlit  
