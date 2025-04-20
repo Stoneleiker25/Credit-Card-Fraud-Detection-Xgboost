@@ -22,7 +22,7 @@ This project builds a machine learning pipeline to detect credit card fraud usin
 
 ## Methodology
 1. Dropped unnecessary column (‘Time’)
-2. Scaled all features using `StandardScaler`
+2. Scaled all features using `StandardScaler'
 3. Split data into train/test sets and trained an XGBoost model
 4. Ran predictions using multiple thresholds (0.5 → 0.1)
 5. Retrained model on full dataset to maximize fraud detection
@@ -41,7 +41,7 @@ This project builds a machine learning pipeline to detect credit card fraud usin
 - Even without cloud tools, strong models can be built locally
 
 ## File Descriptions
-- `credit_fraud_detection.ipynb`: Full notebook with code and results  
+- `credit_fraud_detection.ipynb': Full notebook with code and results  
 - `credit_fraud_results.pdf`: Output export of notebook  
 - `Final_Summary.pdf`: Executive summary of the approach and findings  
 - `Credit Card Fraud Detection (1).csv`: Original dataset (if shared)
